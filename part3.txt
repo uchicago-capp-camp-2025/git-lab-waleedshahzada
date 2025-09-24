@@ -1,3 +1,4 @@
 1. What word was changed in 'text/time-machine.txt'
-
+hair colour was changed
 2. What did the script do to the file 'text/last-question.txt'
+Reworded
